@@ -2,7 +2,7 @@
  * @description     Class containing Invocable Method to delete Content Documents from list of SObject IDs
  * @author          Brandon DeMatteis, Enclude
  * @since           09/10/2024
- * @tests           LeadConversionInvocable_Test.cls
+ * @tests           ContentDocumentDeletionInvocable_Test.cls
  */
 public with sharing class ContentDocumentDeletionInvocable {
 

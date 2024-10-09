@@ -1,7 +1,19 @@
 # Content-Document-Deletion-Invocable-Method
 
-Add a brief description of this project here, in Markdown format.
-It will be shown on the main page of the project's GitHub repository.
+Contains an invocable method to delete all Content Documents for a given list of record IDs
+
+## Deploy
+
+<a href="https://github.com/Enclude-Components/Content-Document-Deletion-Invocable-Method/releases/latest">
+  <img alt="Install Latest Release"
+       src="https://img.shields.io/badge/Install%20Latest%20Release-238636?style=for-the-badge&logoColor=white&logo=DocuSign">
+</a>
+
+## Contents
+
+- Apex Classes
+    - ContentDocumentDeletionInvocable.cls
+    - ContentDocumentDeletionInvocable_TEST.cls
 
 ## Development
 
