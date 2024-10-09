@@ -34,6 +34,3 @@ cci flow run release_unlocked_beta --org dev
 ```bash
 cci flow run ci_beta --org beta
 ```
-
-## Production
-3. Merge the feature branch to main
