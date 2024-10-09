@@ -34,3 +34,8 @@ cci flow run release_unlocked_beta --org dev
 ```bash
 cci flow run ci_beta --org beta
 ```
+
+3. Promote to a Production Version
+```bash
+cci flow run release_unlocked_production --org release
+```
